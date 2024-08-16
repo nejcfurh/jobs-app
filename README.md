@@ -20,7 +20,7 @@ Ensure you have Node.js, npm, and Expo CLI installed on your machine before runn
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/jobfinder.git
+git clone https://github.com/yourusername/jobs-app.git
 
 # Navigate to the project directory
 cd jobfinder
