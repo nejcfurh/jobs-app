@@ -23,7 +23,7 @@ Ensure you have Node.js, npm, and Expo CLI installed on your machine before runn
 git clone https://github.com/yourusername/jobs-app.git
 
 # Navigate to the project directory
-cd jobfinder
+cd jobs-app
 
 # Install dependencies
 npm install
